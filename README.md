@@ -1,7 +1,9 @@
 # Modern-Portfolio-Theory-using-Markwitz-and-Sharpes-theories.
+
 This repository contains the code for the Portfolio optimization techniques for financial assets using Markowitz and Sharpe's theories from the domain Modern Portfolio Theory. This Project is done as a part of the coursework for the course "Introduction to Financial Engineering" under the supervision of Dr. Vivek Vijay.
 
-## Description 
+## Description
+
 Modern portfolio theory (MPT) is an investment theory that aims to maximize returns for a given level of risk by constructing a well-diversified portfolio of assets. The theory was developed by Harry Markowitz in the 1950s and expanded by William Sharpe's Capital Asset Pricing Model (CAPM) in the 1960s.
 
 MPT assumes that investors are rational and risk-averse, seeking to maximize their returns while minimizing their risk. It also assumes that the risk of an individual asset is not important, but rather the risk of the entire portfolio.
@@ -15,6 +17,17 @@ Together, Markowitz's efficient portfolio theory and Sharpe's CAPM provide a pow
 ## Results
 
 ### Markowitz's Efficient Frontier
-<!-- add image -->
-[Markowitz's Efficient Frontier](https://github.com/ayushabrol13/Modern-Portfolio-Optimization-using-Markwitz-and-Sharpes-theories/blob/master/results/Markowitz'%20Efficient%20Frontier.png)
 
+![Markowitz's Efficient Frontier](https://github.com/ayushabrol13/Modern-Portfolio-Optimization-using-Markwitz-and-Sharpes-theories/blob/master/results/Markowitz'%20Efficient%20Frontier.png?raw=true)
+
+### Portfolio Optimization with Individual Stocks
+
+![Portfolio Optimization with Individual Stocks](https://github.com/ayushabrol13/Modern-Portfolio-Optimization-using-Markwitz-and-Sharpes-theories/blob/master/results/Portfolio%20Optimization%20with%20Individual%20Stocks.png?raw=true)
+
+### CAP-M Model
+
+![CAP-M Model](https://github.com/ayushabrol13/Modern-Portfolio-Optimization-using-Markwitz-and-Sharpes-theories/blob/master/results/CAP-M%20model.png?raw=true)
+
+### Security market lines
+
+![Security market lines](https://github.com/ayushabrol13/Modern-Portfolio-Optimization-using-Markwitz-and-Sharpes-theories/blob/master/results/Security%20market%20lines.png?raw=true)
