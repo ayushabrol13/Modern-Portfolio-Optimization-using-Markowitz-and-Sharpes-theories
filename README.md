@@ -31,3 +31,9 @@ Together, Markowitz's efficient portfolio theory and Sharpe's CAPM provide a pow
 ### Security market lines
 
 ![Security market lines](https://github.com/ayushabrol13/Modern-Portfolio-Optimization-using-Markwitz-and-Sharpes-theories/blob/master/results/Security%20market%20lines.png?raw=true)
+
+## Contributors
+
+- [Ayush Abrol](https://github.com/ayushabrol13)
+- [Aryan Tiwari](https://github.com/AryanTiwarii) 
+- [Neehal Prakash Bajaj](https://github.com/bajaj2)
